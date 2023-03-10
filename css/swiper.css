@@ -1,0 +1,12 @@
+.swiper-img{
+    width: 100%;
+}
+.title{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 2rem;
+}
+.swiper-slide-product{
+    display: flex;
+    flex-direction: column;
+}
